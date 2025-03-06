@@ -61,7 +61,7 @@ Aspiring Backend Developer | Cloud Engineer ☁️
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jin0328&show_icons=true&theme=blueberry&hide=prs&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jin0328&theme=blueberry" height="180">
+  <!--img src="https://github-readme-streak-stats.herokuapp.com?user=Jin0328&theme=blueberry" height="180"-->
 </p>
 
 <p align="center">
