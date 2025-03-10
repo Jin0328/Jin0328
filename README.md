@@ -16,10 +16,10 @@ Aspiring Backend Developer | Cloud Engineer ☁️
 ### 🚀 About Me
 - 🎓 **Major**: Computer Engineering @ Ewha Womans University  
 - 🔭 **Currently Working on**: Backend Development & Cloud Technologies  
-- 🌱 **Learning**: AWS, Docker, Kubernetes, Microservices  
+- 🌱 **Learning**: AWS, Microservices  
 - 💡 **Interests**: Scalable Backend Systems, DevOps, Cloud Infrastructure  
 - 🎯 **Goal**: Becoming a Cloud & Backend Solution Architect  
-- 📚 **Tech Blog**: [jiiiiin02.log](https://velog.io/@jiiiiin02/posts)  
+<!--- 📚 **Tech Blog**: [jiiiiin02.log](https://velog.io/@jiiiiin02/posts)  -->
 
 ---
 
@@ -35,10 +35,11 @@ Aspiring Backend Developer | Cloud Engineer ☁️
 
 #### 🏗️ Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-<!---
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
---->
+<!---
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)--->
+
+
 
 #### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -56,19 +57,18 @@ Aspiring Backend Developer | Cloud Engineer ☁️
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
-
+<!----
 ### 📊 Stats & Activity
-
-<p align="center">
+---->
+<!---p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jin0328&show_icons=true&theme=blueberry&hide=prs&count_private=true" height="180"/>
   <!--img src="https://github-readme-streak-stats.herokuapp.com?user=Jin0328&theme=blueberry" height="180"-->
-</p>
+<!----/p>
 
 <p align="center">
   <!---img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jin0328&layout=compact&theme=blueberry" height="180"/-->
-   <img src="http://mazassumnida.wtf/api/generate_badge?boj=starjin28" height="180"/>
+   <!---img src="http://mazassumnida.wtf/api/generate_badge?boj=starjin28" height="180"/>
 </p>
-
 
 
 ---
