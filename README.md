@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=E976C2&center=true&width=435&lines=Hi+I'm+Jiin+Han+:);" />
 </p>
 
-<p align="center"> 💻 Computer Science and Engineering Student @ Ewha Womans University</br>
+<p align="center"> 💻 Computer Science and Engineering Student</br>
 Backend Developer | Cloud Engineer ☁️
 </p>
 
