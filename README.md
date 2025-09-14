@@ -14,7 +14,7 @@ Backend Developer | Cloud Engineer ☁️
 ---
 
 ### 🚀 About Me
-- 🎓 **Major**: Computer Engineering @ Ewha Womans University  
+- 🎓 **Major**: Computer Engineering
 - 🔭 **Currently Working on**: Backend Development & Cloud Technologies  
 - 🌱 **Learning**: AWS, Microservices  
 - 💡 **Interests**: Scalable Backend Systems, DevOps, Cloud Infrastructure  
