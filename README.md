@@ -8,7 +8,8 @@
 </p>
 
 <p align="center"> 💻 Computer Science and Engineering Student</br>
-Backend Developer | Cloud Engineer ☁️
+Backend Developer | Cloud Engineer ☁️ </br>
+Ewha Womans University
 </p>
 
 ---
